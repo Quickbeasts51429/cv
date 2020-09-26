@@ -1,0 +1,25 @@
+body{
+    margin:0;
+    padding:0;
+}
+div{
+    position:absolute;
+    height:100vh;
+    width:100vw;
+
+}
+.day
+{
+    background:url(https://wallpapercave.com/wp/oWfnrb6.jpg) no-repeat center;
+    background-size: cover;
+    clip-path: polygon(100% 0, 0% 100%, 100% 100%);
+    
+}
+
+.night
+{
+
+    background:url(http://sarahstup.com/wp/wp-content/uploads/2017/01/night-time-background.jpg) no-repeat center;
+    background-size: cover;
+    
+}
